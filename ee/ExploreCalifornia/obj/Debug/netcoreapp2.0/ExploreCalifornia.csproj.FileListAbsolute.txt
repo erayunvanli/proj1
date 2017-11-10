@@ -1,0 +1,33 @@
+c:\users\unvanli\source\repos\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.deps.json
+c:\users\unvanli\source\repos\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.runtimeconfig.json
+c:\users\unvanli\source\repos\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.runtimeconfig.dev.json
+c:\users\unvanli\source\repos\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.dll
+c:\users\unvanli\source\repos\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.pdb
+c:\users\unvanli\source\repos\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.csproj.CoreCompileInputs.cache
+c:\users\unvanli\source\repos\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.AssemblyInfoInputs.cache
+c:\users\unvanli\source\repos\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.AssemblyInfo.cs
+c:\users\unvanli\source\repos\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.dll
+c:\users\unvanli\source\repos\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.pdb
+C:\Users\unvanli\source\repos\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.csprojResolveAssemblyReference.cache
+C:\Users\unvanli\source\repos\sssdsd\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.deps.json
+C:\Users\unvanli\source\repos\sssdsd\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.runtimeconfig.json
+C:\Users\unvanli\source\repos\sssdsd\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.runtimeconfig.dev.json
+C:\Users\unvanli\source\repos\sssdsd\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.dll
+C:\Users\unvanli\source\repos\sssdsd\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.pdb
+C:\Users\unvanli\source\repos\sssdsd\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.csprojResolveAssemblyReference.cache
+C:\Users\unvanli\source\repos\sssdsd\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.csproj.CoreCompileInputs.cache
+C:\Users\unvanli\source\repos\sssdsd\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.AssemblyInfoInputs.cache
+C:\Users\unvanli\source\repos\sssdsd\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.AssemblyInfo.cs
+C:\Users\unvanli\source\repos\sssdsd\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.dll
+C:\Users\unvanli\source\repos\sssdsd\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.pdb
+C:\Users\unvanli\Desktop\New folder\dee\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.deps.json
+C:\Users\unvanli\Desktop\New folder\dee\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.runtimeconfig.json
+C:\Users\unvanli\Desktop\New folder\dee\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.runtimeconfig.dev.json
+C:\Users\unvanli\Desktop\New folder\dee\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.dll
+C:\Users\unvanli\Desktop\New folder\dee\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.0\ExploreCalifornia.pdb
+C:\Users\unvanli\Desktop\New folder\dee\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.csprojResolveAssemblyReference.cache
+C:\Users\unvanli\Desktop\New folder\dee\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.csproj.CoreCompileInputs.cache
+C:\Users\unvanli\Desktop\New folder\dee\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.AssemblyInfoInputs.cache
+C:\Users\unvanli\Desktop\New folder\dee\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.AssemblyInfo.cs
+C:\Users\unvanli\Desktop\New folder\dee\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.dll
+C:\Users\unvanli\Desktop\New folder\dee\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.0\ExploreCalifornia.pdb
